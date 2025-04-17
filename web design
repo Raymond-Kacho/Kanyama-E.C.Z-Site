@@ -1,0 +1,14 @@
+!doctype <html>
+    <html>
+head</html><title> hellow </title></head>
+<body>
+    
+h1> first heading <h1>
+h2> second heading </h2>
+
+p> web design 1 </p>
+p> web design 2 </p>
+
+/body
+
+/html
